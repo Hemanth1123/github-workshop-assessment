@@ -8,6 +8,9 @@ Workshop Date: 10-02-2026
 Name: Hemanth  
 College: KALASALINGAM UNIVERSITY  
 Workshop Date: 10-02-2026
+department : cse(aiml)
+hobby: boxing
+
 
 ## Project Description
 This repository is created for GitHub workshop practice.
